@@ -1,2 +1,3 @@
 # Artificial-Neural-Network-project-of-Churn-Modelling
  Churn Modelling Using Artificial Neural Networks : Introduction to artificial neural networks (ANNs) and their relevance to churn prediction.
+# In this project, we successfully developed a churn modelling solution using artificial neural networks (ANNs). By leveraging the power of ANNs, we were able to accurately predict customer churn and provide valuable insights for businesses in various industries.By leveraging the power of ANNs, we pave the way for data-driven decision-making and customer retention strategies that can positively impact businesses in the face of churn challenges.
